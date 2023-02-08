@@ -47,7 +47,7 @@ body{
   margin: 10px 0;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 567px) {
   .header-title-left, .header-title-right {
     display: none;
   }
